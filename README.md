@@ -1,4 +1,4 @@
-# AthleteRise – AI-Powered Cricket Analytics
+AI-Powered Cricket Analytics
 
 Real-time cover drive analysis system that processes full cricket videos to provide biomechanical insights and performance evaluation using a modular, maintainable architecture.
 
@@ -202,29 +202,3 @@ The included Streamlit app provides:
 - Single-player analysis only
 - Requires clear pose visibility
 - Performance depends on video quality
-
-### Future Enhancements
-- Multi-player analysis
-- Advanced bat tracking
-- 3D pose estimation
-- Machine learning-based technique classification
-- Integration with wearable sensors
-
-## 📄 License
-
-This project is developed for AthleteRise cricket analytics assignment.
-
-## 🤝 Contributing
-
-For improvements and bug fixes:
-1. Fork the repository
-2. Create feature branch
-3. Submit pull request with detailed description
-
-## 📞 Support
-
-For technical issues or questions, please refer to the troubleshooting section or create an issue in the project repository.
-
----
-
-**AthleteRise Team** | *Revolutionizing Cricket Analytics with AI*
