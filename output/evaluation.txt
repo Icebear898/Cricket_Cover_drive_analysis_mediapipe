@@ -1,0 +1,47 @@
+AthleteRise Cricket Cover Drive Analysis Report
+==================================================
+
+Overall Score: 8.0/10
+Skill Level: Intermediate
+Analysis Quality: Excellent
+
+Category Scores:
+  Footwork: 8.1/10
+  Head Position: 9.5/10
+  Swing Control: 6.4/10
+  Balance: 8.9/10
+  Follow Through: 7.1/10
+
+Consistency Score: 0.423
+
+Detailed Feedback:
+
+Footwork:
+  • Excellent foot positioning
+  • Maintain this alignment
+
+Head Position:
+  • Great head position
+  • Keep head over front knee
+
+Swing Control:
+  • Adjust elbow angle
+  • Aim for 90-130 degree range
+
+Balance:
+  • Excellent balance
+  • Good spine angle maintained
+
+Follow Through:
+  • Good consistency
+  • Minor technique variations
+
+Frames Analyzed: 136
+Complete Data Frames: 136
+Analysis Date: 2025-08-14 12:55:02
+
+Average Biomechanical Metrics:
+  Front Elbow Angle: 81.61
+  Spine Lean: 17.97
+  Head Knee Alignment: 13.49
+  Front Foot Direction: 14.02

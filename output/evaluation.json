@@ -1,0 +1,51 @@
+{
+  "overall_score": 8.0,
+  "skill_level": "Intermediate",
+  "category_scores": {
+    "footwork": 8.1,
+    "head_position": 9.5,
+    "swing_control": 6.4,
+    "balance": 8.9,
+    "follow_through": 7.1
+  },
+  "weighted_scores": {
+    "footwork": 8.1,
+    "head_position": 9.5,
+    "swing_control": 7.7,
+    "balance": 8.9,
+    "follow_through": 5.7
+  },
+  "feedback": {
+    "footwork": [
+      "Excellent foot positioning",
+      "Maintain this alignment"
+    ],
+    "head_position": [
+      "Great head position",
+      "Keep head over front knee"
+    ],
+    "swing_control": [
+      "Adjust elbow angle",
+      "Aim for 90-130 degree range"
+    ],
+    "balance": [
+      "Excellent balance",
+      "Good spine angle maintained"
+    ],
+    "follow_through": [
+      "Good consistency",
+      "Minor technique variations"
+    ]
+  },
+  "average_metrics": {
+    "front_elbow_angle": 81.61,
+    "spine_lean": 17.97,
+    "head_knee_alignment": 13.49,
+    "front_foot_direction": 14.02
+  },
+  "consistency_score": 0.423,
+  "total_frames_analyzed": 136,
+  "frames_with_complete_data": 136,
+  "timestamp": "2025-08-14 12:55:02",
+  "analysis_quality": "Excellent"
+}
